@@ -1,6 +1,6 @@
 import React from 'react'
 import { Button } from './Button'
-import './Footer.css'
+import '../components/styles/Footer.css'
 import { Link } from 'react-router-dom'
 import { FaTypo3, FaFacebook, FaInstagram, FaYoutube, FaTwitter, FaLinkedin } from 'react-icons/fa'
 

@@ -5,10 +5,11 @@
     font-family: 'PT Sans', sans-serif; 
   }
   
-  .home,
-  .services,
-  .products,
-  .sign-up {
+  .home
+  /* .services, */
+  /* .products, */
+  /* .sign-up { */
+  {
     display: flex;
     height: 90vh;
     align-items: center;
@@ -17,28 +18,37 @@
   }
   
   .services {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-image: url('/images/img-2.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    color: #fff;
-    font-size: 100px;
+    /* color: #fff;
+    font-size: 100px; */
   }
   
   .products {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-image: url('/images/img-1.jpg');
     background-position: center;
-    background-size: fill;
+    background-size: cover;
     background-repeat: no-repeat;
-    color: #fff;
-    font-size: 100px;
+    /* color: #fff;
+    font-size: 100px; */
   }
   
   .sign-up {
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
     background-image: url('/images/img-8.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    color: #fff;
-    font-size: 100px;
+    /* color: #fff;
+    font-size: 100px; */
   }

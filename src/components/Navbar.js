@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { FaTypo3, FaTimes, FaBars } from "react-icons/fa"
 import {Button} from './Button'
-import './Navbar.css'
+import '../components/styles/Navbar.css'
 
 export default function Navbar() {
 

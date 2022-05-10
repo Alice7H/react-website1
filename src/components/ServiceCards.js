@@ -1,6 +1,6 @@
 import React from 'react'
 import '../components/styles/ServiceCards.css'
-import { database } from '../components/Database'
+import { database } from '../Database'
 import ServiceCardItem from './ServiceCardItem'
 
 export default function ServiceCards() {

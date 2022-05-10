@@ -1,11 +1,10 @@
 import React from 'react'
 import '../../App.css'
-import { database } from '../Database'
+import { database } from '../../Database';
 
 export default function Products() {
 
     const products = database.products
-    // description, id, name, thumbnailUrl, url;
 
     return (
         <div className='products'>

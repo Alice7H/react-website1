@@ -6,9 +6,6 @@
   }
   
   .home
-  /* .services, */
-  /* .products, */
-  /* .sign-up { */
   {
     display: flex;
     height: 90vh;
@@ -25,8 +22,6 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    /* color: #fff;
-    font-size: 100px; */
   }
   
   .products {
@@ -37,8 +32,6 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    /* color: #fff;
-    font-size: 100px; */
   }
   
   .sign-up {
@@ -49,6 +42,4 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    /* color: #fff;
-    font-size: 100px; */
   }

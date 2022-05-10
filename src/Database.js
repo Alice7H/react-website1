@@ -75,7 +75,7 @@ export const database = {
             'name': 'Maglite LED 2-Cell D Flashlight',
             'description': 'Egestas suspendisse conubia quis potenti nostra proin interdum metus lectus, fames varius gravida hac nibh praesent purus aliquet. laoreet turpis integer venenatis faucibus non turpis, ad sociosqu senectus gravida sociosqu. ',
             'url': 'https://static.bhphoto.com/images/images2500x2500/1337701004_760365.jpg',
-            'thumbnailUrl': 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSqr10THJ8sW5Z_lWx4lHhEs4MmdoEV9X0qw&usqp=CAU'
+            'thumbnailUrl': 'https://images-americanas.b2w.io/produtos/3634642734/imagens/lanterna-maglite-led-2d-168-lumens-2-pilhas-original-usa/3634642777_1_xlarge.jpg'
         }, 
         {
             'id': '13',
@@ -116,7 +116,7 @@ export const database = {
             'return_day':'2020-10-31T18:00:00.000Z',
             'from': 'São Paulo',
             'goTo': 'Australia',
-            'class': 'economical', 
+            'class': 'economical', // first , executive, premium, economical
             'description': 'Metus euismod praesent aenean tortor vitae, senectus eros aliquam nec. ',
             'fontUrl': 'https://www.travelonline.com/lady-elliot-island/accommodation/snorkelling-92569-crop.jpg',       
         },
@@ -140,7 +140,7 @@ export const database = {
             'return_day':'2020-11-02T21:55:00.000Z',
             'from': 'São Paulo',
             'goTo': 'Argentina',
-            'class': 'executive', // first , executive, premium, economical
+            'class': 'executive',
             'description': 'Et lacinia faucibus morbi est varius, auctor integer sagittis vivamus. ',
             'fontUrl': 'https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4t52P?ver=2832',
         },
@@ -152,7 +152,7 @@ export const database = {
             'return_day':'2020-11-02T07:50:00.000Z',
             'from': 'São Paulo',
             'goTo': 'Thailand',
-            'class': 'economical', // first , executive, premium, economical
+            'class': 'economical',
             'description': 'Quam et nisi lobortis donec vivamus, rhoncus duis donec neque.',
             'fontUrl': 'https://photobest1.com/wp-content/uploads/2018/05/Phuket-Thailand-Wallpaper-hd-13.jpg',
         },
@@ -164,7 +164,7 @@ export const database = {
             'return_day':'2020-11-02T13:30:00.000Z',
             'from': 'São Paulo',
             'goTo': 'Greece',
-            'class': 'premium', // first , executive, premium, economical
+            'class': 'premium',
             'description': 'Dui ac egestas taciti nibh metus, etiam consectetur nullam curae.',
             'fontUrl': 'https://cf.bstatic.com/images/hotel/max1024x768/155/155354145.jpg', 
         },
@@ -176,7 +176,7 @@ export const database = {
             'return_day':'2020-10-31T11:05:00.000Z',
             'from': 'São Paulo',
             'goTo': 'Spain',
-            'class': 'economical', // first , executive, premium, economical
+            'class': 'economical',
             'description': 'Cursus lobortis eget duis aenean etiam, ut erat litora rutrum.',
             'fontUrl': 'https://www.grancanaria.com/blog/fileadmin/_processed_/csm_GranCanaria-EstrellasCumbre_2e159e7663.jpg',
         },

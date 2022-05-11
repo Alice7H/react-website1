@@ -27,14 +27,14 @@ export default function Navbar() {
     window.addEventListener('resize', showButton)
 
     return (
-        <>
+        <header>
             <nav className='navbar'>
                 <div className='navbar-container'>
                     <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-                        TRVL <FaTypo3/>
+                        TRVL <FaTypo3 />
                     </Link>
                     <div className='menu-icon' onClick={handleClick}>
-                        {click ? <FaTimes/> : <FaBars/> }
+                        {click ? <FaTimes color="white" /> : <FaBars color="white"/> }
                     </div>
                     <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                         <li className='nav-item'>
@@ -66,6 +66,6 @@ export default function Navbar() {
                     }
                 </div>
             </nav>
-        </>
+        </header>
     )
 }

@@ -17,6 +17,7 @@
 }
 
 .cards__item__service__text {
+    padding: 1rem;
     color: #252e48;
     font-size: 14px;
   }

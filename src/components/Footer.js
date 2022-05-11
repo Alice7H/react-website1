@@ -54,10 +54,10 @@ export default function Footer() {
                     </div>
                     <div className='footer-link-items'>
                         <h2>Social Media</h2>
-                        <Link to='/'>Instagram</Link>
-                        <Link to='/'>Facebook</Link>
-                        <Link to='/'>Youtube</Link>
-                        <Link to='/'>Twitter</Link>
+                        <Link to={{pathname: 'https://www.instagram.com/'}} target="_blank" rel="noopener noreferrer">Instagram</Link>
+                        <Link to={{pathname: 'https://pt-br.facebook.com/'}} target="_blank" rel="noopener noreferrer">Facebook</Link>
+                        <Link to={{pathname: 'https://www.youtube.com/'}} target="_blank" rel="noopener noreferrer">Youtube</Link>
+                        <Link to={{pathname: 'https://twitter.com/'}} target="_blank" rel="noopener noreferrer">Twitter</Link>
                     </div>
                 </div>                 
             </div>
@@ -73,8 +73,9 @@ export default function Footer() {
                     <div className='social-icons'>
                         <Link
                             className='social-icon-link facebook'
-                            to='/'
+                            to={{pathname: 'https://www.facebook.com/'}}
                             target='_blank'
+                            rel="noopener noreferrer"
                             aria-label='Facebook'
                         >
                             <FaFacebook />
@@ -82,8 +83,9 @@ export default function Footer() {
 
                         <Link
                             className='social-icon-link instagram'
-                            to='/'
+                            to={{pathname: 'https://www.instagram.com/'}} 
                             target='_blank'
+                            rel="noopener noreferrer"
                             aria-label='Instagram'
                         >
                             <FaInstagram />
@@ -91,16 +93,18 @@ export default function Footer() {
 
                         <Link
                             className='social-icon-link youtube'
-                            to='/'
+                            to={{pathname: 'https://www.youtube.com/'}}
                             target='_blank'
+                            rel="noopener noreferrer"
                             aria-label='Youtube'
                         >
                             <FaYoutube />
                         </Link>
                         <Link
                             className='social-icon-link twitter'
-                            to='/'
+                            to={{pathname: 'https://www.twitter.com/'}}
                             target='_blank'
+                            rel="noopener noreferrer"
                             aria-label='Twitter'
                         >
                             <FaTwitter />
@@ -108,8 +112,9 @@ export default function Footer() {
 
                         <Link
                             className='social-icon-link twitter'
-                            to='/'
+                            to={{pathname: 'https://br.linkedin.com/'}}
                             target='_blank'
+                            rel="noopener noreferrer"
                             aria-label='LinkedIn'
                         >
                             <FaLinkedin />

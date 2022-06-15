@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "https://alice7h.github.io/react-website1/static/css/main.04e8bb85.chunk.css",
-    "main.js": "https://alice7h.github.io/react-website1/static/js/main.20b61747.chunk.js",
-    "main.js.map": "https://alice7h.github.io/react-website1/static/js/main.20b61747.chunk.js.map",
-    "runtime-main.js": "https://alice7h.github.io/react-website1/static/js/runtime-main.c5df028a.js",
-    "runtime-main.js.map": "https://alice7h.github.io/react-website1/static/js/runtime-main.c5df028a.js.map",
-    "static/js/2.0aeca238.chunk.js": "https://alice7h.github.io/react-website1/static/js/2.0aeca238.chunk.js",
-    "static/js/2.0aeca238.chunk.js.map": "https://alice7h.github.io/react-website1/static/js/2.0aeca238.chunk.js.map",
-    "index.html": "https://alice7h.github.io/react-website1/index.html",
-    "precache-manifest.9e65cedfc9572ab6c986c318fa40e43c.js": "https://alice7h.github.io/react-website1/precache-manifest.9e65cedfc9572ab6c986c318fa40e43c.js",
-    "service-worker.js": "https://alice7h.github.io/react-website1/service-worker.js",
-    "static/css/main.04e8bb85.chunk.css.map": "https://alice7h.github.io/react-website1/static/css/main.04e8bb85.chunk.css.map",
-    "static/js/2.0aeca238.chunk.js.LICENSE.txt": "https://alice7h.github.io/react-website1/static/js/2.0aeca238.chunk.js.LICENSE.txt",
-    "static/media/App.css": "https://alice7h.github.io/react-website1/static/media/img-1.cd1d1c97.jpg",
-    "static/media/img-2.jpg": "https://alice7h.github.io/react-website1/static/media/img-2.4143d240.jpg",
-    "static/media/img-3.jpg": "https://alice7h.github.io/react-website1/static/media/img-3.65b53910.jpg",
-    "static/media/img-4.jpg": "https://alice7h.github.io/react-website1/static/media/img-4.0ec923fc.jpg",
-    "static/media/img-8.jpg": "https://alice7h.github.io/react-website1/static/media/img-8.d211c298.jpg",
-    "static/media/img-9.jpg": "https://alice7h.github.io/react-website1/static/media/img-9.523a89f6.jpg",
-    "static/media/HeroSection.css": "https://alice7h.github.io/react-website1/static/media/img-home.369d2a84.jpg"
+    "main.css": "/react-website1/static/css/main.a3f362a8.chunk.css",
+    "main.js": "/react-website1/static/js/main.1c13717e.chunk.js",
+    "main.js.map": "/react-website1/static/js/main.1c13717e.chunk.js.map",
+    "runtime-main.js": "/react-website1/static/js/runtime-main.b5e43d76.js",
+    "runtime-main.js.map": "/react-website1/static/js/runtime-main.b5e43d76.js.map",
+    "static/js/2.0aeca238.chunk.js": "/react-website1/static/js/2.0aeca238.chunk.js",
+    "static/js/2.0aeca238.chunk.js.map": "/react-website1/static/js/2.0aeca238.chunk.js.map",
+    "index.html": "/react-website1/index.html",
+    "precache-manifest.17b606582ee8ee4282ec4186bc0d9510.js": "/react-website1/precache-manifest.17b606582ee8ee4282ec4186bc0d9510.js",
+    "service-worker.js": "/react-website1/service-worker.js",
+    "static/css/main.a3f362a8.chunk.css.map": "/react-website1/static/css/main.a3f362a8.chunk.css.map",
+    "static/js/2.0aeca238.chunk.js.LICENSE.txt": "/react-website1/static/js/2.0aeca238.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-website1/static/media/img-1.cd1d1c97.jpg",
+    "static/media/img-2.jpg": "/react-website1/static/media/img-2.4143d240.jpg",
+    "static/media/img-3.jpg": "/react-website1/static/media/img-3.65b53910.jpg",
+    "static/media/img-4.jpg": "/react-website1/static/media/img-4.0ec923fc.jpg",
+    "static/media/img-8.jpg": "/react-website1/static/media/img-8.d211c298.jpg",
+    "static/media/img-9.jpg": "/react-website1/static/media/img-9.523a89f6.jpg",
+    "static/media/HeroSection.css": "/react-website1/static/media/img-home.369d2a84.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5df028a.js",
+    "static/js/runtime-main.b5e43d76.js",
     "static/js/2.0aeca238.chunk.js",
-    "static/css/main.04e8bb85.chunk.css",
-    "static/js/main.20b61747.chunk.js"
+    "static/css/main.a3f362a8.chunk.css",
+    "static/js/main.1c13717e.chunk.js"
   ]
 }

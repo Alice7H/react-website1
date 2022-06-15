@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "http://localhost:3000/static/css/main.a92369c1.chunk.css",
-    "main.js": "http://localhost:3000/static/js/main.5360d9bf.chunk.js",
-    "main.js.map": "http://localhost:3000/static/js/main.5360d9bf.chunk.js.map",
-    "runtime-main.js": "http://localhost:3000/static/js/runtime-main.0ab34507.js",
-    "runtime-main.js.map": "http://localhost:3000/static/js/runtime-main.0ab34507.js.map",
-    "static/js/2.0aeca238.chunk.js": "http://localhost:3000/static/js/2.0aeca238.chunk.js",
-    "static/js/2.0aeca238.chunk.js.map": "http://localhost:3000/static/js/2.0aeca238.chunk.js.map",
-    "index.html": "http://localhost:3000/index.html",
-    "precache-manifest.d7eebe62b8a1005b6d3433b2b1778991.js": "http://localhost:3000/precache-manifest.d7eebe62b8a1005b6d3433b2b1778991.js",
-    "service-worker.js": "http://localhost:3000/service-worker.js",
-    "static/css/main.a92369c1.chunk.css.map": "http://localhost:3000/static/css/main.a92369c1.chunk.css.map",
-    "static/js/2.0aeca238.chunk.js.LICENSE.txt": "http://localhost:3000/static/js/2.0aeca238.chunk.js.LICENSE.txt",
-    "static/media/img-2.jpg": "http://localhost:3000/static/media/img-2.4143d240.jpg",
-    "static/media/img-3.jpg": "http://localhost:3000/static/media/img-3.65b53910.jpg",
-    "static/media/img-4.jpg": "http://localhost:3000/static/media/img-4.0ec923fc.jpg",
-    "static/media/img-8.jpg": "http://localhost:3000/static/media/img-8.d211c298.jpg",
-    "static/media/img-9.jpg": "http://localhost:3000/static/media/img-9.523a89f6.jpg",
-    "static/media/HeroSection.css": "http://localhost:3000/static/media/img-home.369d2a84.jpg"
+    "main.css": "http://locahost:3000/static/css/main.680a0255.chunk.css",
+    "main.js": "http://locahost:3000/static/js/main.f3ebad6b.chunk.js",
+    "main.js.map": "http://locahost:3000/static/js/main.f3ebad6b.chunk.js.map",
+    "runtime-main.js": "http://locahost:3000/static/js/runtime-main.78350891.js",
+    "runtime-main.js.map": "http://locahost:3000/static/js/runtime-main.78350891.js.map",
+    "static/js/2.0aeca238.chunk.js": "http://locahost:3000/static/js/2.0aeca238.chunk.js",
+    "static/js/2.0aeca238.chunk.js.map": "http://locahost:3000/static/js/2.0aeca238.chunk.js.map",
+    "index.html": "http://locahost:3000/index.html",
+    "precache-manifest.c5275e13c660abd6a2bff10d7d1b3f2b.js": "http://locahost:3000/precache-manifest.c5275e13c660abd6a2bff10d7d1b3f2b.js",
+    "service-worker.js": "http://locahost:3000/service-worker.js",
+    "static/css/main.680a0255.chunk.css.map": "http://locahost:3000/static/css/main.680a0255.chunk.css.map",
+    "static/js/2.0aeca238.chunk.js.LICENSE.txt": "http://locahost:3000/static/js/2.0aeca238.chunk.js.LICENSE.txt",
+    "static/media/App.css": "http://locahost:3000/static/media/img-1.cd1d1c97.jpg",
+    "static/media/img-2.jpg": "http://locahost:3000/static/media/img-2.4143d240.jpg",
+    "static/media/img-3.jpg": "http://locahost:3000/static/media/img-3.65b53910.jpg",
+    "static/media/img-4.jpg": "http://locahost:3000/static/media/img-4.0ec923fc.jpg",
+    "static/media/img-8.jpg": "http://locahost:3000/static/media/img-8.d211c298.jpg",
+    "static/media/img-9.jpg": "http://locahost:3000/static/media/img-9.523a89f6.jpg",
+    "static/media/HeroSection.css": "http://locahost:3000/static/media/img-home.369d2a84.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ab34507.js",
+    "static/js/runtime-main.78350891.js",
     "static/js/2.0aeca238.chunk.js",
-    "static/css/main.a92369c1.chunk.css",
-    "static/js/main.5360d9bf.chunk.js"
+    "static/css/main.680a0255.chunk.css",
+    "static/js/main.f3ebad6b.chunk.js"
   ]
 }

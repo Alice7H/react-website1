@@ -4,7 +4,7 @@
 
 Este projeto foi inicializado com o [Create-React-App](https://github.com/facebook/create-react-app).
 
-Landing page criado para captação de leads (clientes em potencial) para desbravar de viagens, rumo à novas aventuras.
+Landing page criada para captação de leads (clientes em potencial) para desbravar de viagens, rumo à novas aventuras.
 
 A página de serviço possui uma lista com lugares para se visitar com seus respectivos
 locais, horários e datas de ida e volta. Bem como uma breve descrição fictícia do local a ser visitado.
